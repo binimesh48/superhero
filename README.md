@@ -3,7 +3,7 @@ A custom-crafted superhero search engine to know your superhero better!
 Made with using HTML + CSS + VanillaJS + FontAwesome(for icons)
 
 ## API Used: https://superheroapi.com/?ref=apilist.fun
-## Website Link: 
+## Website Link: https://binimesh48.github.io/superhero/
 
 ## Components:
 ### Home Page
